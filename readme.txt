@@ -1,0 +1,1 @@
+This is a merger of irrlicht-1.8.4 and IrrlichtCMake (https://github.com/ZahlGraf/IrrlichtCMake). Examples, Tools and Docs(with the exception of licenses) have been removed. The purpose is to have a CMake buildable version of Irrlicht with a simple pull from this repository.
